@@ -1,0 +1,139 @@
+engine2.dll:
+	SimpleEngineLoopService_001
+	ClientServerEngineLoopService_001
+	KeyValueCache001
+	HostStateMgr001
+	GameEventSystemServerV001
+	GameEventSystemClientV001
+	EngineServiceMgr001
+	VProfService_001
+	UserInfoChangeService_001
+	ToolService_001
+	StatsService_001
+	SplitScreenService_001
+	SoundService_001
+	ScreenshotService001
+	RenderService_001
+	NetworkService_001
+	NetworkServerService_001
+	NetworkP2PService_001
+	NetworkClientService_001
+	MapListService_001
+	InputService_001
+	HeapCompactionService001
+	GameUIService_001
+	GameResourceServiceServerV001
+	GameResourceServiceClientV001
+	BugService001
+	BenchmarkService001
+	VENGINE_GAMEUIFUNCS_VERSION005
+	VEngineVGui001
+	INETSUPPORT_001
+	VCvarQuery001
+	GameServerData001
+	Source2EngineToServerStringTable001
+	Source2EngineToServer001
+	Source2EngineToClientStringTable001
+	Source2EngineToClient001
+tier0.dll:
+	VStringTokenSystem001
+	TestScriptMgr001
+	VProcessUtils002
+	VEngineCvar007
+	ConfigurationSystem_001
+steamclient64.dll:
+	IVALIDATE001
+	CLIENTENGINE_INTERFACE_VERSION005
+	SteamClient020
+	SteamClient019
+	SteamClient018
+	SteamClient017
+	SteamClient016
+	SteamClient015
+	SteamClient014
+	SteamClient013
+	SteamClient012
+	SteamClient011
+	SteamClient010
+	SteamClient009
+	SteamClient008
+	SteamClient007
+	SteamClient006
+	p2pvoice002
+	p2pvoicesingleton002
+vstdlib_s64.dll:
+	IVALIDATE001
+	VEngineCvar002
+filesystem_stdio.dll:
+	VAsyncFileSystem2_001
+	VFileSystem017
+inputsystem.dll:
+	InputSystemVersion001
+	InputStackSystemVersion001
+imemanager.dll:
+	IMEManager001
+localize.dll:
+	Localize_001
+rendersystemdx11.dll:
+	RenderUtils_001
+	VRenderDeviceMgrBackdoor001
+	RenderDeviceMgr001
+resourcesystem.dll:
+	ResourceSystem013
+schemasystem.dll:
+	SchemaSystem_001
+materialsystem2.dll:
+	MaterialUtils_001
+	TextLayout_001
+	PostProcessingSystem_001
+	FontManager_001
+	VMaterialSystem2_001
+meshsystem.dll:
+	MeshSystem001
+worldrenderer.dll:
+	WorldRendererMgr001
+vscript.dll:
+	VScriptManager010
+networksystem.dll:
+	SerializedEntitiesVersion001
+	NetworkSystemVersion001
+	NetworkMessagesVersion001
+	FlattenedSerializersVersion001
+animationsystem.dll:
+	AnimationSystemUtils_001
+	AnimationSystem_001
+vphysics2.dll:
+	VPhysics2_Handle_Interface_001
+	VPhysics2_Interface_001
+soundsystem.dll:
+	SoundOpSystem001
+	SoundOpSystemEdit001
+	SoundSystem001
+	VMixEditTool001
+steamaudio.dll:
+	SteamAudio001
+scenesystem.dll:
+	SceneUtils_001
+	SceneSystem_002
+	RenderingPipelines_001
+particles.dll:
+	ParticleSystemMgr003
+server.dll:
+	Source2GameDirector001
+	Source2GameClients001
+	Source2GameEntities001
+	Source2Server001
+	Source2ServerConfig001
+	EntitySubclassUtilsV001
+client.dll:
+	Source2ClientPrediction001
+	Source2Client002
+	GameClientExports001
+	Source2ClientConfig001
+	SteamPalMenuStartupMapLoadService
+	Source2ClientUI001
+	PanoramaUIClient001
+panorama.dll:
+	PanoramaUIEngine001
+panorama_text_pango.dll:
+	PanoramaTextServices001
