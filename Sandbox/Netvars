@@ -1,3 +1,4 @@
+//Stuff like CBaseCombatCharacter, CBaseCombatWeapon ... got fully removed
 C_BaseAnimating : (92) 
 	[0] m_flAnimTime - 0x2e0  (float32) 
 	[1] m_flSimulationTime - 0x2e4  (float32) 
