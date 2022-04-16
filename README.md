@@ -7,6 +7,7 @@ This is netvars, interfaces and class ids dump from Valve's Source2 Engine games
 * Dota Underlords
 * Half-Life: Alyx
 * Aperture Desk Job
+* Sandbox (S&box)
 
 ## Contribution
 If something is wrong or missing, let me know via GitHub Issues.
